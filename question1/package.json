@@ -1,0 +1,25 @@
+{
+  "name": "node-js-assignment",
+  "version": "1.0.0",
+  "description": "This is an assignment on core modules",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenAdeosun/Node_Modules-Path-OS-Process-FS-HTTP-.git"
+  },
+  "keywords": [
+    "Node",
+    "Locl",
+    "Modules"
+  ],
+  "author": "Stephen💎",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenAdeosun/Node_Modules-Path-OS-Process-FS-HTTP-/issues"
+  },
+  "homepage": "https://github.com/StephenAdeosun/Node_Modules-Path-OS-Process-FS-HTTP-#readme"
+}
